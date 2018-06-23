@@ -1,5 +1,5 @@
-# Laravel naming guide
-After digging in Laravel's documentation and some other repositories this seems to be more or less a consensus. Some goes without saying like the Eloquent converions, others are more you to you. I did this list for my self. 
+# Laravel naming guide WIP
+After digging in Laravel's documentation and some other repositories, this seems to be more or less a consensus. Some go without saying like the Eloquent conventions, others are more up to you. I made this list for my self. 
 
 If you have any suggestions, let me know.
 
