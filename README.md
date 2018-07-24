@@ -21,7 +21,7 @@ If you have any suggestions, let me know.
 | Command         |                           | Command                       | *InstallCommand.php* |
 | Request         |                           | Request                       | *CreateTokenRequest.php* |
 | Listener        | *descriptive*             | Notification?                 | *UpdateTrialEndingDate.php, SendShipmentNotification.php* |
-| Repository      |                           | Repository                    | *UserRepositry.php* |
+| Repository      |                           | Repository                    | *UserRepository.php* |
 | Asset           | kebab-case                |                               | *vue-bootstrap.js* |
 | Helper          | snake_case                |                               | *array_has()* |
 
