@@ -9,7 +9,7 @@ If you have any suggestions, let me know.
 | Controller      | singular                  | Controller                    | *PostController.php*       |
 | Model           | singular,                 |                               | *Post.php*                  |
 | Table           | plural, snake_case        |                               | *user_posts*                    |  
-| Columns         | plural, snake_case        |                               | *created_at*                     |
+| Columns         | singular, snake_case      |                               | *created_at, user_id*            |
 | Route           | plural                    |                               | *users/{username}/ban*          | 
 | Named route     | dot-notation, snake-case  |                               | *settings.team* |
 | Method          | camelCase                 |                               | *getUsersPosts()*           |
