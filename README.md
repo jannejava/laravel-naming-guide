@@ -26,3 +26,12 @@ If you have any suggestions, let me know.
 | Helper          | snake_case                |                               | *array_has()* |
 
 All classes uses PascalCase
+
+
+## Explanations
+This is an attempt to explain the origins of the naming standard. Feel free to add to this.
+
+- Helper functions are named in snake_case because of PHP functions are named like this.
+- Tables are pluralised because they represent multiple instances of data - each instance being an individual row inside the table.
+- Models are named singularly because they represent a single instance, not a collection.
+- Suffixs are used to differ, for an example, a repository from a model by just glancing over the file name in your editor.
