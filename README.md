@@ -1,7 +1,8 @@
 # Laravel naming guide WIP
-After digging in Laravel's documentation and some other repositories, this seems to be more or less a consensus. Some go without saying like the Eloquent conventions, others are more up to you. I made this list for my self. 
+After researching Laravel's documentation and various repositories, I've compiled a list of best practices and conventions that seem to be more or less a consensus within the Laravel community. Some of these practices, like the Eloquent conventions, are widely accepted, while others are more subject to personal preference. I created this list as a reference for myself and fellow Laravel developers.
 
-If you have any suggestions, let me know.
+If you have any suggestions, please feel free to contribute or share your thoughts.
+
 
 | Type            | Rule                      | Suffix                        | Example  |
 | --------------- |---------------------------|-------------------------------| ---------|
